@@ -1,0 +1,11 @@
+SQL Project: Risk Analysis in the Insurance Sector: A Data-driven Approach
+
+download Insurance dataset from below link :
+https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
+import the dataset in sql server with table name : Insurance_data
+change the column names to lower case before importing data to sql server.Also replace space within column names with underscore.
+(alternatively you can use the dataset present in zip file)
+while importing make sure to change the data types of columns. by defualt it shows everything as varchar.
+
+
+
