@@ -76,4 +76,3 @@ GROUP BY smoker
 ORDER BY avg_risk_score DESC;
 
 
---This data-driven approach provides insights into high-risk factors, helping insurance companies to make informed decisions and improve their risk management strategies. ​
