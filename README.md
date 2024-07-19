@@ -14,11 +14,7 @@ This data-driven approach provides insights into high-risk factors, helping insu
 # Download Insurance dataset from below link :
 https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
 
-Import the dataset in sql server with table name : Insurance_data
 
-Change the column names to lower case before importing data to sql server.Also replace space within column names with underscore.
-
-While importing make sure to change the data types of columns. by defualt it shows everything as varchar.
 
 # Based on this dataset, the following types of analysis questions We'll be answering:
 
