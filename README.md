@@ -52,4 +52,4 @@ While importing make sure to change the data types of columns. by defualt it sho
 
 12.What are the key differentiators between competing insurance providers?
 
-# These questions provide a framework for conducting detailed analysis on the US Health Insurance Dataset, enabling insights into various aspects of the insurance sector, from demographic trends to predictive modeling and market competition.
+These questions provide a framework for conducting detailed analysis on the US Health Insurance Dataset, enabling insights into various aspects of the insurance sector, from demographic trends to predictive modeling and market competition.
