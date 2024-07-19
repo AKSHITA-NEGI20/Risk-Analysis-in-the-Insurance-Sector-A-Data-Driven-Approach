@@ -31,13 +31,19 @@ These questions provide a framework for conducting detailed analysis on the US H
 # Data Description
 This dataset contains 1338 rows of insured data, where the Insurance charges are given against the following attributes of the insured: Age, Sex, BMI, Number of Children, Smoker and Region. The attributes are a mix of numeric and categorical variables.
 
-# Column Name                          Discription
+# Column Name                                                           Discription
 age                          Age of primary beneficiary
+
 sex                         Insurance contractor gender(female / male)
+
 bmi                         Body mass index, providing an understanding of bodyweights that are relatively high or low relative to height.
+
 children                    Number of children covered by health insurance / Number of dependents
+
 smoker                      Smoker / Non - smoker
+
 region                      The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+
 charges                     Individual medical costs billed by health insurance.
 
 
