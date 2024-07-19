@@ -1,5 +1,6 @@
 
-![Uploading Risk.jpeg…]()
+
+![Risk](https://github.com/user-attachments/assets/bd67a605-ba4b-4644-bc0a-3ebd7588dfcd)
 
 # Risk Analysis in the Insurance Sector-A Data Driven Approach
 
