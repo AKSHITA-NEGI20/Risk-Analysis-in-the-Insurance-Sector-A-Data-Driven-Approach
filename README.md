@@ -15,8 +15,41 @@ This data-driven approach provides insights into high-risk factors, helping insu
 https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
 
 Import the dataset in sql server with table name : Insurance_data
+
 Change the column names to lower case before importing data to sql server.Also replace space within column names with underscore.
-(alternatively you can use the dataset present in zip file)
 
 While importing make sure to change the data types of columns. by defualt it shows everything as varchar.
 
+# Based on this dataset, the following types of analysis questions We'll be answering:
+
+# Demographic Analysis
+1.What is the distribution of age groups among the insured individuals?
+
+2.How do gender and marital status affect the likelihood of insurance coverage?
+
+# Health and Lifestyle Factors
+3.What is the correlation between BMI (Body Mass Index) and health insurance claims?
+
+4.How do smoking and drinking habits influence insurance claims?
+
+# Insurance Coverage and Claims
+5.What is the average cost of health insurance premiums by region?
+
+6.How do different insurance plans (e.g., HMO, PPO) affect claim frequencies?
+
+# Predictive Modeling
+7.Can we predict the likelihood of health insurance claims based on demographic and health factors?
+
+8.What are the key predictors of high claim frequencies?
+
+# Customer Behavior and Retention
+9.How do customer satisfaction ratings correlate with retention rates?
+
+10.What are the most common reasons for policy cancellations?
+
+# Market Trends and Competition
+11.How do market trends (e.g., economic conditions, regulatory changes) affect insurance premiums and claim frequencies?
+
+12.What are the key differentiators between competing insurance providers?
+
+# These questions provide a framework for conducting detailed analysis on the US Health Insurance Dataset, enabling insights into various aspects of the insurance sector, from demographic trends to predictive modeling and market competition.
