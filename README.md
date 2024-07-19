@@ -17,14 +17,23 @@ https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
 # Based on this dataset, the following types of analysis questions We'll be answering:
 
 1.1.What is the distribution of insurance charges across different demographics?
+
 2.What is the distribution of age groups among the insured individuals?
+
 3.What is the correlation between BMI (Body Mass Index) and health insurance claims?
+
 4.What is the average cost of health insurance premiums by region?
+
 5.Which regions have the highest proportion of smokers?
+
 6.How do the number of children affect insurance charges?
+
 7.What are the key predictors of high claims in the dataset?
+
 8.How does smoking status affect insurance charges?
+
 9.What are the correlations among different features?
+
 
 These questions provide a framework for conducting detailed analysis on the US Health Insurance Dataset, enabling insights into various aspects of the insurance sector, from demographic trends to predictive modeling and market competition.
 
